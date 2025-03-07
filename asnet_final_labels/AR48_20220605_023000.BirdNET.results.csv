@@ -1,0 +1,18 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+0,3.0,RTLO,fc,0.1545
+37.5,40.5,redpoll,redpoll,0.1703
+39.0,42.0,LBDO,LBDO,0.1631
+129.0,132.0,redpoll,redpoll,0.1493
+130.5,133.5,redpoll,redpoll,0.1323
+133.5,136.5,redpoll,redpoll,0.1795
+151.5,154.5,redpoll,redpoll,0.1234
+211.5,214.5,motor,motor,0.1052
+213.0,216.0,motor,motor,0.1043
+222.0,225.0,RTLO,fc,0.1466
+228.0,231.0,RTLO,fc,0.1684
+235.5,238.5,Rain,Rain,0.1331
+240.0,243.0,RTLO,fc,0.1130
+250.5,253.5,Rain,Rain,0.1586
+270.0,273.0,Rain,Rain,0.1142
+288.0,291.0,LBDO,LBDO,0.1195
+295.5,298.5,motor,motor,0.1050

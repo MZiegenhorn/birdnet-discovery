@@ -1,0 +1,25 @@
+Start (s),End (s),Scientific name,Common name,Confidence
+1.5,4.5,Anser albifrons,Greater White-fronted Goose,0.4566
+3.0,6.0,Anser albifrons,Greater White-fronted Goose,0.9099
+4.5,7.5,Anser albifrons,Greater White-fronted Goose,0.2820
+6.0,9.0,Anser albifrons,Greater White-fronted Goose,0.3859
+7.5,10.5,Anser albifrons,Greater White-fronted Goose,0.1032
+10.5,13.5,Limosa lapponica,Bar-tailed Godwit,0.4277
+150.0,153.0,Phalaropus lobatus,Red-necked Phalarope,0.1303
+163.5,166.5,Phalaropus lobatus,Red-necked Phalarope,0.1107
+165.0,168.0,Phalaropus lobatus,Red-necked Phalarope,0.1375
+201.0,204.0,Calidris pusilla,Semipalmated Sandpiper,0.1769
+202.5,205.5,Calidris pusilla,Semipalmated Sandpiper,0.1513
+204.0,207.0,Calidris pusilla,Semipalmated Sandpiper,0.3407
+205.5,208.5,Calidris pusilla,Semipalmated Sandpiper,0.2670
+220.5,223.5,Phalaropus lobatus,Red-necked Phalarope,0.6429
+222.0,225.0,Phalaropus lobatus,Red-necked Phalarope,0.3048
+223.5,226.5,Phalaropus lobatus,Red-necked Phalarope,0.1132
+225.0,228.0,Phalaropus lobatus,Red-necked Phalarope,0.3072
+226.5,229.5,Phalaropus lobatus,Red-necked Phalarope,0.1844
+229.5,232.5,Phalaropus lobatus,Red-necked Phalarope,0.2088
+231.0,234.0,Phalaropus lobatus,Red-necked Phalarope,0.1326
+234.0,237.0,Phalaropus lobatus,Red-necked Phalarope,0.1876
+268.5,271.5,Phalaropus lobatus,Red-necked Phalarope,0.5520
+270.0,273.0,Phalaropus lobatus,Red-necked Phalarope,0.6678
+271.5,274.5,Phalaropus lobatus,Red-necked Phalarope,0.3850

@@ -1,0 +1,347 @@
+filename,start,stop,manSp,netSp,conf
+AR70_20230613_120000.wav,0,300,"['na', 'nan']",nan,nan
+20220621_073000.wav,0,300,"['LALO', 'nan'] , ['DUNL', 'nan'] , ['PALO', 'LALO', 'nan'] , ['PALO', 'nan'] , ['PALO', 'CACK', 'LALO', 'nan'] , ['CACK', 'LALO', 'nan'] , ['CACK', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['nan', 'GWFG'] , ['PAJA', 'nan', 'GWFG']",GWFG,0.9643
+AR70_20230715_200000.wav,0,300,"['na', 'nan']",nan,nan
+AR97_20230615_093000.wav,0,300,"['nan', 'GWFG'] , ['BBPL', 'nan', 'GWFG'] , ['BBPL', 'nan'] , ['WIPT', 'nan'] , ['DUNL', 'nan']",nan,nan
+AR70_20230803_233000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230628_040000.wav,0,300,"['bbpl', 'nan']",nan,nan
+20220621_130000.wav,0,300,"['LALO', 'nan'] , ['unkMF', 'nan'] , ['LALO', 'unkMF', 'nan'] , ['DUNL', 'nan']",nan,nan
+AL33_20230716_053000.wav,0,300,"['sesa', 'nan'] , ['bbpl', 'nan']",nan,nan
+20220617_170000.wav,0,300,"['phalarope', 'nan'] , ['PESA', 'phalarope', 'nan'] , ['phalarope', 'LALO', 'nan'] , ['LALO', 'nan'] , ['SESA', 'phalarope', 'nan'] , ['SESA', 'nan'] , ['SESA', 'motor', 'nan'] , ['PESA', 'SESA', 'motor', 'nan'] , ['motor', 'nan']",phalarope,0.9989
+AR93_20230723_043000.wav,0,300,"['unkLF', 'nan']",ROPT,0.9407
+AL64_20230612_133000.wav,0,300,"['LALO', 'nan'] , ['PESA', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['nan', 'GWFG']",nan,nan
+AL33_20230613_180000.wav,0,300,"['lalo', 'nan']",nan,nan
+AR93_20230708_083000.wav,0,300,"['na', 'nan']",nan,nan
+AR23_20230614_100000.wav,0,300,"['WIPT', 'nan'] , ['PALO', 'nan'] , ['WIPT', 'PALO', 'nan']",nan,nan
+AR97_20230615_100000.wav,0,300,"['nan', 'GWFG'] , ['RTLO', 'nan'] , ['phalarope', 'RTLO', 'nan'] , ['PALO', 'phalarope', 'RTLO', 'nan'] , ['PALO', 'RTLO', 'nan'] , ['PALO', 'LBDO', 'RTLO', 'nan'] , ['LBDO', 'RTLO', 'nan'] , ['LBDO', 'nan'] , ['PALO', 'nan'] , ['BBPL', 'RTLO', 'nan']",BARG,0.5315
+AL33_20230805_153000.wav,0,300,"['unknown', 'nan'] , ['gull', 'nan'] , ['gwfg', 'nan'] , ['bbpl', 'nan']",BARG,0.2541
+AR91_20230613_100000.wav,0,300,"['phalarope', 'nan'] , ['LBDO', 'nan'] , ['nan', 'GWFG']",nan,nan
+AL33_20230708_033000.wav,0,300,"['unknown', 'nan'] , ['BARG', 'nan'] , ['palo', 'nan'] , ['bbpl', 'nan'] , ['bbpl', 'BARG', 'nan'] , ['BARG', 'bbpl', 'nan']",nan,nan
+AR93_20230716_160000.wav,0,300,"['na', 'nan']",nan,nan
+20220617_070000.wav,0,300,"['LALO', 'nan'] , ['phalarope', 'nan'] , ['DUNL', 'nan'] , ['nan', 'GWFG'] , ['nan', 'DUNL', 'GWFG'] , ['nan', 'AMGP'] , ['GWFG', 'nan', 'AMGP'] , ['nan', 'DUNL', 'AMGP'] , ['LALO', 'nan', 'GWFG']",nan,nan
+AR02_20220617_130000.wav,0,300,"['SAVS', 'nan']",SAVS,0.8283
+20220606_190000.wav,0,300,"['DUNL', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['LALO', 'nan']",nan,nan
+AR91_20230614_150000.wav,0,300,"['LBDO', 'nan'] , ['LBDO', 'nan', 'GWFG'] , ['nan', 'GWFG'] , ['LALO', 'nan'] , ['LALO', 'nan', 'GWFG']","LBDO , GWFG","0.3511,0.9202"
+B78_20230613_063000.wav,0,300,"['WIPT', 'nan'] , ['nan', 'GWFG']",nan,nan
+B81_20230612_120000.wav,0,300,"['phalarope', 'nan'] , ['PESA', 'nan'] , ['WIPT', 'nan'] , ['WIPT', 'PALO', 'nan'] , ['PALO', 'nan']",SEOW,0.3356
+AR81_20230613_053000.wav,0,300,"['BBPL', 'nan'] , ['LBDO', 'nan']",nan,nan
+AL57_20230613_013000.wav,0,300,"['LALO', 'nan'] , ['nan', 'GWFG'] , ['PALO', 'nan'] , ['STSA', 'nan'] , ['CACK', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['PALO', 'LALO', 'nan'] , ['RTLO', 'nan']",nan,nan
+AR105_20220612_180000.wav,0,300,"['LALO', 'nan'] , ['nan', 'GWFG']",nan,nan
+AR70_20230718_103000.wav,0,300,"['na', 'nan']",nan,nan
+AR91_20230613_103000.wav,0,300,"['LBDO', 'nan', 'GWFG'] , ['nan', 'GWFG'] , ['LBDO', 'nan'] , ['PAJA', 'LBDO', 'nan'] , ['PAJA', 'nan']",nan,nan
+AR87_20230614_023000.wav,0,300,"['nan', 'GWFG'] , ['BBPL', 'nan'] , ['BBPL', 'nan', 'GWFG'] , ['LBDO', 'nan'] , ['PESA', 'nan'] , ['PESA', 'LBDO', 'nan'] , ['LBDO', 'nan', 'GWFG']",GWFG,0.918
+AL35_20230608_173000.wav,0,300,"['wipt', 'nan'] , ['lalo', 'wipt', 'nan'] , ['lalo', 'nan'] , ['savs', 'nan'] , ['wipt', 'savs', 'nan']",nan,nan
+AR91_20230613_083000.wav,0,300,"['RTLO', 'nan'] , ['nan', 'GWFG'] , ['LBDO', 'nan', 'GWFG']",GWFG,0.2951
+AL73_20230613_163000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['DUNL', 'nan'] , ['nan', 'GWFG']",nan,nan
+AR93_20230709_233000.wav,0,300,"['insect', 'nan']",nan,nan
+AR11_20220609_110000.wav,0,300,"['LALO', 'nan'] , ['WIPT', 'nan']",nan,nan
+AL35_20230603_203000.wav,0,300,"['redpoll', 'nan'] , ['lalo', 'nan'] , ['wipt', 'redpoll', 'nan']",redpoll,0.4311
+AR93_20230717_200000.wav,0,300,"['AMGP', 'nan']",nan,nan
+AR70_20230716_180000.wav,0,300,"['na', 'nan']",nan,nan
+AL35_20230604_143000.wav,0,300,"['lalo', 'nan'] , ['wipt', 'nan'] , ['wipt', 'unknown', 'nan'] , ['unknown', 'nan'] , ['lalo', 'gwfg', 'nan'] , ['gwfg', 'nan'] , ['lalo', 'wipt', 'nan'] , ['BARG', 'nan'] , ['gwfg', 'BARG', 'nan'] , ['lalo', 'BARG', 'nan']",BARG,0.5084
+20220616_133000.wav,0,300,"['LALO', 'nan'] , ['PESA', 'LALO', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['PESA', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['PESA', 'LALO', 'DUNL', 'nan']",PESA,0.6674
+AR18_20220626_073000.wav,0,300,"['RTLO', 'nan'] , ['LALO', 'nan']",nan,nan
+AR53_20230613_143000.wav,0,300,"['LALO', 'nan'] , ['nan', 'AMGP'] , ['PALO', 'nan'] , ['WIPT', 'nan'] , ['WIPT', 'PALO', 'nan'] , ['WIPT', 'LALO', 'nan'] , ['DUNL', 'nan']",SEOW,0.5156
+EC41_20230619_123000.wav,0,300,"['RTLO', 'nan'] , ['LALO', 'nan'] , ['SAVS', 'nan']",nan,nan
+AR108_20220623_173000.wav,0,300,"['STSA', 'nan']",nan,nan
+AL33_20230615_093000.wav,0,300,"['lalo', 'nan'] , ['gwfg', 'nan'] , ['redpoll', 'nan'] , ['unknown', 'nan']",nan,nan
+AR45_20230612_113000.wav,0,300,"['nan', 'GWFG'] , ['PESA', 'nan', 'GWFG'] , ['PESA', 'phalarope', 'nan', 'GWFG'] , ['phalarope', 'nan', 'GWFG'] , ['phalarope', 'nan'] , ['CACK', 'nan', 'GWFG']",GWFG,0.9824
+AL35_20230605_133000.wav,0,300,"['gwfg', 'nan'] , ['lalo', 'nan'] , ['lalo', 'wipt', 'nan'] , ['lalo', 'wipt', 'gwfg', 'nan'] , ['lalo', 'gwfg', 'nan'] , ['lalo', 'gwfg', 'unknown', 'nan'] , ['lalo', 'gwfg', 'lbdo', 'nan']",nan,nan
+AL57_20230614_010000.wav,0,300,"['RTLO', 'nan'] , ['RTLO', 'DUNL', 'nan'] , ['BBPL', 'nan'] , ['LALO', 'nan'] , ['Insect', 'nan'] , ['SESA', 'nan']",nan,nan
+EC41_20230619_120000.wav,0,300,"['WIPT', 'nan'] , ['WIPT', 'LALO', 'nan'] , ['LALO', 'nan']",nan,nan
+AR87_20230615_063000.wav,0,300,"['LALO', 'nan'] , ['DUNL', 'nan'] , ['PESA', 'nan'] , ['PESA', 'LALO', 'nan'] , ['SESA', 'nan'] , ['RTLO', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['SESA', 'DUNL', 'nan']",nan,nan
+AR70_20230801_203000.wav,0,300,"['na', 'nan']",nan,nan
+AR93_20230705_073000.wav,0,300,"['LTJA', 'nan']",nan,nan
+AL33_20230711_083000.wav,0,300,"['palo', 'nan'] , ['unknown', 'nan']",nan,nan
+AR04_20220528_080000.wav,0,300,"['LALO', 'nan']",nan,nan
+AR87_20230614_013000.wav,0,300,"['DUNL', 'nan'] , ['PESA', 'nan']",nan,nan
+20220621_180000.wav,0,300,"['nan', 'GWFG'] , ['LALO', 'nan', 'GWFG'] , ['LALO', 'nan'] , ['nan', 'LALO', 'DUNL', 'GWFG'] , ['LALO', 'DUNL', 'nan'] , ['PALO', 'LALO', 'nan', 'GWFG'] , ['nan', 'DUNL', 'GWFG'] , ['DUNL', 'nan'] , ['motor', 'LALO', 'nan'] , ['motor', 'LALO', 'nan', 'GWFG'] , ['motor', 'nan', 'GWFG']",nan,nan
+AR93_20230623_100000.wav,0,300,"['BBPL', 'nan']",nan,nan
+AR70_20230712_050000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230616_140000.wav,0,300,"['lalo', 'nan']",nan,nan
+EC28_20230614_083000.wav,0,300,"['STSA', 'nan'] , ['WIPT', 'nan'] , ['BBPL', 'nan'] , ['BBPL', 'STSA', 'nan']",nan,nan
+AR93_20230625_233000.wav,0,300,"['SESA', 'nan']",nan,nan
+AR70_20230801_140000.wav,0,300,"['na', 'nan']",nan,nan
+EC41_20230619_133000.wav,0,300,"['WIPT', 'nan'] , ['LALO', 'nan']",nan,nan
+AL33_20230712_043000.wav,0,300,"['lalo', 'nan']",nan,nan
+AL33_20230613_113000.wav,0,300,"['unknown', 'nan'] , ['WCSP', 'nan'] , ['wipt', 'WCSP', 'nan']",nan,nan
+AL46_20230613_153000.wav,0,300,"['LALO', 'nan'] , ['DUNL', 'nan']",nan,nan
+AL33_20230712_180000.wav,0,300,"['sesa', 'palo', 'nan'] , ['palo', 'nan'] , ['sesa', 'nan'] , ['unknown', 'nan']",nan,nan
+AR91_20230614_190000.wav,0,300,"['PESA', 'nan'] , ['LALO', 'nan']",nan,nan
+AL33_20230714_030000.wav,0,300,"['sesa', 'nan'] , ['unknown', 'nan'] , ['sesa', 'unknown', 'nan'] , ['bbpl', 'nan'] , ['sesa', 'bbpl', 'nan']",SESA,0.9716
+20220617_110000.wav,0,300,"['PESA', 'phalarope', 'nan'] , ['PESA', 'nan'] , ['phalarope', 'nan'] , ['phalarope', 'DUNL', 'nan'] , ['DUNL', 'nan'] , ['nan', 'DUNL', 'AMGP'] , ['nan', 'AMGP'] , ['nan', 'GWFG'] , ['PESA', 'nan', 'GWFG'] , ['LALO', 'DUNL', 'nan'] , ['LALO', 'nan'] , ['PESA', 'DUNL', 'nan'] , ['phalarope', 'LALO', 'nan']",nan,nan
+AL33_20230606_050000.wav,0,300,"['bbpl', 'nan'] , ['lalo', 'nan'] , ['wipt', 'nan'] , ['lalo', 'wipt', 'nan']",nan,nan
+AR91_20230614_163000.wav,0,300,"['PESA', 'nan'] , ['LBDO', 'nan'] , ['LBDO', 'Insect', 'nan'] , ['LBDO', 'nan', 'GWFG'] , ['PALO', 'LBDO', 'nan'] , ['PALO', 'nan'] , ['PESA', 'LALO', 'nan'] , ['PESA', 'PALO', 'LBDO', 'nan'] , ['PESA', 'PALO', 'nan'] , ['LALO', 'nan']",nan,nan
+AL33_20230622_220000.wav,0,300,"['lalo', 'nan'] , ['unknown', 'nan']",nan,nan
+AR87_20230614_053000.wav,0,300,"['LBDO', 'nan'] , ['LALO', 'nan'] , ['unkMF', 'nan'] , ['nan', 'GWFG'] , ['LALO', 'DUNL', 'nan'] , ['DUNL', 'nan'] , ['nan', 'DUNL', 'GWFG']",GWFG,0.6016
+AL41_20230606_150000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['nan', 'LALO', 'DUNL', 'GWFG'] , ['LALO', 'nan', 'GWFG'] , ['PESA', 'LALO', 'nan'] , ['PESA', 'nan'] , ['DUNL', 'nan']",nan,nan
+AR40_20220612_130000.wav,0,300,"['LALO', 'nan'] , ['SESA', 'nan'] , ['redpoll  ', 'nan']",nan,nan
+AR93_20230718_163000.wav,0,300,"['LBDO', 'nan']",nan,nan
+AR49_20220616_200000.wav,0,300,"['nan', 'GWFG'] , ['SESA', 'nan', 'GWFG'] , ['LALO', 'nan'] , ['unkMF', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['phalarope', 'nan'] , ['SESA', 'LALO', 'nan'] , ['SESA', 'nan'] , ['LALO', 'unkMF', 'nan']","GWFG , BARG , SESA , phalarope","0.9099,0.4277,0.3407,0.6678"
+AR108_20220623_183000.wav,0,300,"['LALO', 'nan'] , ['PESA', 'nan']",nan,nan
+B81_20230611_130000.wav,0,300,"['LALO', 'nan'] , ['WIPT', 'nan'] , ['LBDO', 'nan'] , ['SAVS', 'nan']",nan,nan
+AL73_20230613_173000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'DUNL', 'nan']",nan,nan
+AR106_20220624_123000.wav,0,300,"['LALO', 'nan'] , ['BBPL', 'nan']",nan,nan
+AR87_20230615_050000.wav,0,300,"['unkMF', 'nan'] , ['nan', 'GWFG'] , ['LALO', 'nan', 'GWFG'] , ['LALO', 'nan'] , ['PAJA', 'nan'] , ['PAJA', 'unkMF', 'nan'] , ['PAJA', 'nan', 'GWFG'] , ['PESA', 'nan']",nan,nan
+AR11_20220610_043000.wav,0,300,"['LALO', 'nan'] , ['PESA', 'nan'] , ['PESA', 'LALO', 'nan']",nan,nan
+AR70_20230714_100000.wav,0,300,"['na', 'nan']",nan,nan
+AR93_20230719_233000.wav,0,300,"['PALO', 'nan'] , ['BBPL', 'nan']",nan,nan
+AR102_20230617_210000.wav,0,300,"['nan', 'GWFG'] , ['BBPL', 'nan']",GWFG,0.8036
+AR81_20230612_113000.wav,0,300,"['WIPT', 'nan'] , ['LBDO', 'nan'] , ['WIPT', 'LBDO', 'nan'] , ['LTDU', 'LBDO', 'nan'] , ['nan', 'GWFG']",nan,nan
+AR02_20220617_150000.wav,0,300,"['SAVS', 'nan']",SAVS,0.5131
+AR65_20220610_083000.wav,0,300,"['WIPT', 'nan'] , ['LALO', 'nan'] , ['WIPT', 'LALO', 'nan']",nan,nan
+AR87_20230614_010000.wav,0,300,"['DUNL', 'nan'] , ['nan', 'DUNL', 'GWFG'] , ['nan', 'LALO', 'DUNL', 'GWFG'] , ['LALO', 'DUNL', 'nan'] , ['nan', 'LALO', 'DUNL', 'AMGP'] , ['nan', 'DUNL', 'AMGP'] , ['LBDO', 'DUNL', 'nan'] , ['PALO', 'LALO', 'DUNL', 'nan'] , ['PALO', 'DUNL', 'nan'] , ['LALO', 'nan'] , ['PALO', 'LALO', 'nan'] , ['PALO', 'nan']",nan,nan
+AL64_20230612_123000.wav,0,300,"['LALO', 'nan'] , ['PESA', 'nan'] , ['nan', 'GWFG'] , ['LALO', 'nan', 'GWFG'] , ['PESA', 'LALO', 'nan', 'GWFG'] , ['PESA', 'nan', 'GWFG'] , ['DUNL', 'nan']",nan,nan
+AR70_20230628_153000.wav,0,300,"['na', 'nan']",nan,nan
+AL73_20230613_180000.wav,0,300,"['DUNL', 'nan'] , ['LALO', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['nan', 'GWFG'] , ['LALO', 'nan', 'GWFG']",nan,nan
+AL64_20230612_120000.wav,0,300,"['LALO', 'nan'] , ['PALO', 'LALO', 'nan'] , ['PALO', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['PESA', 'nan'] , ['PESA', 'LALO', 'nan']",nan,nan
+20220617_233000.wav,0,300,"['LALO', 'nan'] , ['nan', 'AMGP'] , ['motor', 'LALO', 'nan'] , ['motor', 'nan'] , ['motor', 'DUNL', 'nan'] , ['motor', 'nan', 'AMGP'] , ['WIPT', 'motor', 'nan'] , ['WIPT', 'motor', 'LALO', 'nan']",nan,nan
+AR91_20230614_183000.wav,0,300,"['LBDO', 'nan']",WESA,0.5563
+B78_20230614_093000.wav,0,300,"['LBDO', 'nan'] , ['WIPT', 'nan']",nan,nan
+AR02_20220617_213000.wav,0,300,"['redpoll  ', 'nan']",nan,nan
+AR70_20230717_180000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230711_123000.wav,0,300,"['unknown', 'nan'] , ['gull', 'nan'] , ['dunl', 'nan'] , ['dunl', 'unknown', 'nan'] , ['bbpl', 'nan']",nan,nan
+AR87_20230614_073000.wav,0,300,"['DUNL', 'nan'] , ['PESA', 'nan'] , ['nan', 'GWFG']",nan,nan
+EC13_20230611_033000.wav,0,300,"['LALO', 'nan'] , ['WIPT', 'nan']",nan,nan
+AR70_20230714_110000.wav,0,300,"['na', 'nan']",nan,nan
+AR87_20230614_120000.wav,0,300,"['DUNL', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['LALO', 'nan'] , ['PESA', 'nan'] , ['PESA', 'LALO', 'nan'] , ['nan', 'GWFG'] , ['SESA', 'nan', 'GWFG'] , ['unkMF', 'nan']",phalarope,0.8607
+AR91_20230614_153000.wav,0,300,"['LALO', 'nan'] , ['nan', 'GWFG'] , ['LBDO', 'nan']",nan,nan
+AL33_20230620_160000.wav,0,300,"['lalo', 'nan'] , ['WCSP', 'nan'] , ['lalo', 'WCSP', 'nan'] , ['bbpl', 'nan'] , ['gwfg', 'nan']",nan,nan
+AL35_20230603_063000.wav,0,300,"['gwfg', 'nan'] , ['wipt', 'nan'] , ['lalo', 'nan'] , ['lalo', 'gwfg', 'nan'] , ['phalarope', 'nan'] , ['savs', 'nan']",GWFG,0.4447
+EC21_20230604_083000.wav,0,300,"['BBPL', 'nan'] , ['BBPL', 'WIPT', 'nan'] , ['WIPT', 'nan'] , ['gull', 'nan']",nan,nan
+AL33_20230627_090000.wav,0,300,"['palo', 'nan'] , ['gwfg', 'palo', 'nan'] , ['gwfg', 'nan'] , ['unknown', 'nan'] , ['wipt', 'nan'] , ['sesa', 'nan']",nan,nan
+AL35_20230608_210000.wav,0,300,"['lalo', 'nan'] , ['redpoll', 'nan'] , ['lalo', 'redpoll', 'nan']",nan,nan
+AR93_20230704_143000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230611_230000.wav,0,300,"['lalo', 'nan']",nan,nan
+AR58_20220613_140000.wav,0,300,"['CACK', 'nan'] , ['nan', 'AMGP'] , ['LALO', 'nan']",nan,nan
+AR82_20220612_133000.wav,0,300,"['LALO', 'nan'] , ['PESA', 'nan']",nan,nan
+AR70_20230720_090000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230707_163000.wav,0,300,"['unknown', 'nan'] , ['lalo', 'nan'] , ['palo', 'nan'] , ['RUTU', 'nan'] , ['pesa', 'nan'] , ['RUTU', 'palo', 'nan'] , ['gwfg', 'nan']",GWFG,0.3778
+AR90_20220610_040000.wav,0,300,"['nan', 'ATSP'] , ['PALO', 'nan']",nan,nan
+AR103_20220608_033000.wav,0,300,"['LALO', 'nan']",nan,nan
+AL35_20230603_120000.wav,0,300,"['gull', 'nan'] , ['wipt', 'gull', 'nan'] , ['wipt', 'nan'] , ['gwfg', 'nan'] , ['lalo', 'gwfg', 'nan'] , ['lalo', 'nan'] , ['lalo', 'wipt', 'nan'] , ['lbdo', 'nan'] , ['wipt', 'lbdo', 'nan']",nan,nan
+AL33_20230620_233000.wav,0,300,"['WCSP', 'nan'] , ['bbpl', 'nan'] , ['WCSP', 'bbpl', 'nan']",nan,nan
+AR93_20230709_190000.wav,0,300,"['LTJA', 'nan']",nan,nan
+20220617_140000.wav,0,300,"['nan', 'GWFG'] , ['LALO', 'nan', 'GWFG'] , ['POJA  ', 'LALO', 'nan', 'GWFG'] , ['POJA  ', 'nan', 'GWFG'] , ['phalarope', 'nan'] , ['motor', 'phalarope', 'nan'] , ['phalarope', 'unkMF', 'nan'] , ['PESA', 'phalarope', 'nan'] , ['phalarope', 'LALO', 'nan'] , ['LALO', 'nan']","LESA , BLUE , PESA","0.2598,0.2985,0.5932"
+AR87_20230615_113000.wav,0,300,"['nan', 'GWFG'] , ['PESA', 'nan'] , ['PESA', 'LBDO', 'nan'] , ['DUNL', 'nan']",nan,nan
+AR70_20230803_150000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230607_120000.wav,0,300,"['unknown', 'nan'] , ['wipt', 'nan'] , ['bbpl', 'nan']",nan,nan
+AL33_20230616_020000.wav,0,300,"['BBPL', 'nan'] , ['WIPT', 'nan']",nan,nan
+AR85_20220612_053000.wav,0,300,"['SAVS', 'nan']",SAVS,0.2647
+B78_20230614_083000.wav,0,300,"['LBDO', 'nan']",nan,nan
+EC41_20230619_140000.wav,0,300,"['LALO', 'nan'] , ['CACK', 'nan']",nan,nan
+AR93_20230710_023000.wav,0,300,"['PALO', 'nan']",nan,nan
+AL33_20230620_010000.wav,0,300,"['lalo', 'nan'] , ['redpoll', 'nan'] , ['lalo', 'redpoll', 'nan']",nan,nan
+AR65_20220610_093000.wav,0,300,"['WIPT', 'nan'] , ['Ptarmigan in flight', 'nan']",nan,nan
+B78_20230614_090000.wav,0,300,"['Waterfowl', 'nan'] , ['LBDO', 'nan'] , ['WIPT', 'nan'] , ['nan', 'GWFG']",nan,nan
+AR62_20230616_113000.wav,0,300,"['DUNL', 'nan'] , ['nan', 'GWFG']",nan,nan
+AR93_20230618_183000.wav,0,300,"['LTJA', 'nan']",nan,nan
+AR97_20230615_110000.wav,0,300,"['BBPL', 'nan'] , ['nan', 'GWFG'] , ['BBPL', 'nan', 'GWFG'] , ['BBPL', 'PALO', 'nan'] , ['PALO', 'nan'] , ['nan', 'AMGP']",nan,nan
+AR97_20230616_143000.wav,0,300,"['LALO', 'nan']",nan,nan
+B78_20230614_080000.wav,0,300,"['nan', 'GWFG'] , ['LALO', 'nan', 'GWFG'] , ['LALO', 'nan'] , ['LBDO', 'nan'] , ['LBDO', 'LALO', 'nan']",nan,nan
+B81_20230612_113000.wav,0,300,"['PALO', 'nan'] , ['PALO', 'YBLO', 'nan'] , ['WIPT', 'nan'] , ['phalarope', 'nan'] , ['unkLF', 'nan'] , ['GWFG', 'nan']",nan,nan
+AL33_20230629_133000.wav,0,300,"['SEPL', 'nan'] , ['SEPL', 'bbpl', 'nan'] , ['bbpl', 'nan']",SEPL,0.6815
+AR62_20230617_093000.wav,0,300,"['SESA', 'nan'] , ['LALO', 'nan'] , ['SESA', 'LALO', 'nan'] , ['DUNL', 'nan'] , ['SESA', 'DUNL', 'nan']",SESA,0.832
+AL33_20230710_113000.wav,0,300,"['palo', 'nan'] , ['bbpl', 'nan'] , ['BARG', 'nan'] , ['unknown', 'nan']",nan,nan
+B78_20230614_103000.wav,0,300,"['STSA', 'nan'] , ['PALO', 'STSA', 'nan'] , ['LBDO', 'nan']",BARG,0.4032
+AL33_20230727_153000.wav,0,300,"['redpoll', 'nan'] , ['bbpl', 'nan'] , ['gwfg', 'nan']",nan,nan
+AL33_20230806_150000.wav,0,300,"['unknown', 'nan'] , ['palo', 'nan'] , ['gwfg', 'nan']",nan,nan
+B81_20230612_110000.wav,0,300,"['WIPT', 'nan'] , ['unkLF', 'nan']",nan,nan
+AR49_20220616_170000.wav,0,300,"['LALO', 'nan'] , ['LTJA', 'nan']",nan,nan
+AL35_20230603_100000.wav,0,300,"['wipt ', 'nan'] , ['wipt ', 'gwfg', 'nan'] , ['gwfg', 'nan'] , ['wipt', 'gwfg', 'nan'] , ['wipt', 'nan'] , ['unknown', 'nan'] , ['ltdu', 'nan'] , ['wipt', 'unknown', 'nan'] , ['ltdu', 'wipt', 'nan']",nan,nan
+20220617_083000.wav,0,300,"['SESA', 'nan', 'GWFG'] , ['SESA', 'nan'] , ['SESA', 'nan', 'AMGP'] , ['SESA', 'DUNL', 'nan'] , ['DUNL', 'nan'] , ['PESA', 'SESA', 'nan', 'AMGP'] , ['PESA', 'SESA', 'nan'] , ['SESA', 'LALO', 'nan'] , ['nan', 'AMGP'] , ['LALO', 'nan', 'AMGP'] , ['LALO', 'nan']",nan,nan
+B78_20230613_053000.wav,0,300,"['LALO', 'nan'] , ['unkLF', 'nan'] , ['LALO', 'unkLF', 'nan'] , ['LBDO', 'nan']","CACK , GWFG","0.891,0.6813"
+AL35_20230610_073000.wav,0,300,"['gwfg', 'nan'] , ['wipt', 'nan']",nan,nan
+20220616_100000.wav,0,300,"['PALO', 'nan'] , ['phalarope', 'nan'] , ['PALO', 'phalarope', 'nan']","LESA , BASA","0.2739,0.4302"
+AR34_20220618_113000.wav,0,300,"['SAVS', 'nan']",nan,nan
+AL33_20230617_100000.wav,0,300,"['palo', 'nan'] , ['wipt', 'nan'] , ['bbpl', 'nan'] , ['palo', 'bbpl', 'nan']",nan,nan
+AR70_20230731_160000.wav,0,300,"['na', 'nan']",nan,nan
+AR93_20230701_180000.wav,0,300,"['BBPL', 'nan']",nan,nan
+AL33_20230726_180000.wav,0,300,"['gull', 'nan']",nan,nan
+AR02_20220618_083000.wav,0,300,"['nan', 'AMGP'] , ['WIPT', 'nan', 'AMGP']",nan,nan
+EC28_20230614_090000.wav,0,300,"['LALO', 'nan'] , ['nan', 'GWFG'] , ['LALO', 'nan', 'GWFG']",GWFG,0.8088
+AR70_20230729_170000.wav,0,300,"['na', 'nan']",nan,nan
+AR93_20230702_203000.wav,0,300,"['POJA  ', 'nan']",nan,nan
+AR97_20230616_130000.wav,0,300,"['BBPL', 'nan']",nan,nan
+EC21_20230604_090000.wav,0,300,"['STSA', 'nan'] , ['BBPL', 'nan'] , ['BBPL', 'WHIM', 'nan'] , ['BBPL', 'WHIM', 'nan', 'GWFG'] , ['WHIM', 'nan', 'GWFG'] , ['nan', 'GWFG']",nan,nan
+20220618_190000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['nan', 'GWFG'] , ['PESA', 'nan', 'GWFG'] , ['PESA', 'LALO', 'nan'] , ['SESA', 'LALO', 'nan'] , ['SESA', 'nan']","GWFG , SESA","0.9164,0.9661"
+AL33_20230618_180000.wav,0,300,"['bbpl', 'nan'] , ['RUTU', 'nan'] , ['wipt', 'nan'] , ['redpoll', 'nan']",RUTU,0.4222
+AR93_20230720_160000.wav,0,300,"['na', 'nan']",nan,nan
+20220606_160000.wav,0,300,"['DUNL', 'nan']",nan,nan
+AL33_20230606_103000.wav,0,300,"['wipt', 'nan'] , ['gwfg', 'nan'] , ['unknown', 'nan'] , ['wipt', 'unknown', 'nan']",nan,nan
+AR70_20230725_103000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230722_213000.wav,0,300,"['gull', 'nan'] , ['ltja', 'gull', 'nan']",nan,nan
+AR97_20230616_133000.wav,0,300,"['LALO', 'nan'] , ['BBPL', 'nan']",nan,nan
+AR70_20230715_203000.wav,0,300,"['na', 'nan']",nan,nan
+AR91_20230613_090000.wav,0,300,"['LBDO', 'nan'] , ['nan', 'GWFG'] , ['RTLO', 'nan', 'GWFG'] , ['RTLO', 'nan'] , ['LALO', 'RTLO', 'nan'] , ['LALO', 'nan']",GWFG,0.9887
+AR18_20220618_213000.wav,0,300,"['nan', 'AMGP'] , ['LALO', 'nan']",nan,nan
+AL33_20230627_080000.wav,0,300,"['gwfg', 'nan'] , ['palo', 'nan'] , ['unknown', 'nan']",GWFG,0.8482
+AR23_20230614_063000.wav,0,300,"['unkLF', 'nan']",nan,nan
+AR61_20230613_060000.wav,0,300,"['PALO', 'nan'] , ['DUNL', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['PALO', 'LALO', 'DUNL', 'nan'] , ['PALO', 'DUNL', 'nan']",nan,nan
+AR93_20230627_093000.wav,0,300,"['LTDU', 'nan']",nan,nan
+AR85_20220612_050000.wav,0,300,"['LALO', 'nan'] , ['LTJA', 'nan']",nan,nan
+20220618_050000.wav,0,300,"['LALO', 'nan'] , ['nan', 'GWFG'] , ['PESA', 'nan'] , ['nan', 'AMGP'] , ['LALO', 'nan', 'AMGP'] , ['PESA', 'nan', 'AMGP'] , ['DUNL', 'nan']",nan,nan
+AL33_20230706_233000.wav,0,300,"['unknown', 'nan'] , ['bbpl', 'nan']",EUWH,0.258
+B81_20230611_133000.wav,0,300,"['LALO', 'nan'] , ['LBDO', 'LALO', 'nan'] , ['LBDO', 'nan']",nan,nan
+AL33_20230613_100000.wav,0,300,"['unknown', 'nan'] , ['wipt', 'nan'] , ['gwfg', 'nan'] , ['palo', 'nan'] , ['ltdu', 'nan']",nan,nan
+AL33_20230712_050000.wav,0,300,"['unknown', 'nan'] , ['lalo', 'nan']",nan,nan
+AL33_20230806_120000.wav,0,300,"['wipt', 'nan']",nan,nan
+AL35_20230615_230000.wav,0,300,"['BBPL', 'nan'] , ['LALO', 'nan']",nan,nan
+AR97_20230616_150000.wav,0,300,"['LALO', 'nan'] , ['LBDO', 'nan']",nan,nan
+AL73_20230613_170000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['DUNL', 'nan'] , ['nan', 'GWFG']",nan,nan
+AR70_20230804_133000.wav,0,300,"['na', 'nan']",nan,nan
+AR87_20230614_090000.wav,0,300,"['nan', 'GWFG'] , ['SESA', 'nan', 'GWFG'] , ['CACK', 'nan', 'GWFG'] , ['DUNL', 'nan'] , ['nan', 'DUNL', 'GWFG'] , ['PESA', 'nan', 'DUNL', 'GWFG'] , ['PESA', 'nan', 'GWFG'] , ['unkMF', 'nan'] , ['unkMF', 'DUNL', 'nan'] , ['LBDO', 'nan']",GWFG,0.8516
+AL33_20230612_053000.wav,0,300,"['palo', 'nan'] , ['lalo', 'nan']",nan,nan
+AR04_20220528_060000.wav,0,300,"['LALO', 'nan'] , ['SAVS', 'nan']",nan,nan
+AR93_20230703_073000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230605_070000.wav,0,300,"['bbpl', 'nan'] , ['sesa', 'nan'] , ['wipt', 'bbpl', 'nan'] , ['wipt', 'nan'] , ['lalo', 'nan']",nan,nan
+AR70_20230614_123000.wav,0,300,"['na', 'nan']",nan,nan
+AR70_20230731_140000.wav,0,300,"['na', 'nan']",nan,nan
+AR53_20230612_133000.wav,0,300,"['nan', 'AMGP'] , ['PALO', 'nan'] , ['PALO', 'nan', 'AMGP'] , ['LALO', 'nan'] , ['LBDO', 'LALO', 'nan'] , ['LBDO', 'nan'] , ['WIPT', 'nan']",nan,nan
+AL33_20230612_183000.wav,0,300,"['lalo', 'nan'] , ['bbpl', 'nan'] , ['unknown', 'nan'] , ['redpoll', 'nan'] , ['sesa', 'nan'] , ['lalo', 'sesa', 'nan'] , ['pesa', 'nan']",nan,nan
+AR102_20230617_070000.wav,0,300,"['STSA', 'DUNL', 'nan'] , ['STSA', 'nan', 'DUNL', 'GWFG'] , ['nan', 'STSA', 'GWFG'] , ['STSA', 'nan'] , ['nan', 'GWFG'] , ['nan', 'DUNL', 'GWFG'] , ['DUNL', 'nan']",GWFG,0.4072
+20220620_080000.wav,0,300,"['PESA', 'nan'] , ['PESA', 'nan', 'GWFG'] , ['nan', 'GWFG'] , ['LALO', 'nan'] , ['AMGP', 'nan', 'GWFG'] , ['PALO', 'nan'] , ['gull', 'nan'] , ['nan', 'DUNL', 'GWFG'] , ['DUNL', 'nan']",GWFG,0.998
+B81_20230612_130000.wav,0,300,"['LALO', 'nan'] , ['nan', 'GWFG'] , ['LALO', 'nan', 'GWFG'] , ['phalarope', 'nan']",nan,nan
+AR93_20230712_020000.wav,0,300,"['BBPL', 'nan']",nan,nan
+AL64_20230612_113000.wav,0,300,"['LALO', 'nan'] , ['nan', 'GWFG'] , ['WISN', 'nan', 'GWFG'] , ['unkMF', 'nan'] , ['PESA', 'nan', 'GWFG'] , ['PESA', 'phalarope', 'nan', 'GWFG'] , ['phalarope', 'nan', 'GWFG'] , ['phalarope', 'LALO', 'nan', 'GWFG'] , ['LALO', 'nan', 'GWFG'] , ['PESA', 'LALO', 'nan'] , ['SESA', 'nan'] , ['SESA', 'LALO', 'nan']",nan,nan
+AR87_20230614_080000.wav,0,300,"['DUNL', 'nan'] , ['RTLO', 'DUNL', 'nan'] , ['DUNL', 'RTLO', 'unkMF', 'nan'] , ['RTLO', 'unkMF', 'nan'] , ['LALO', 'RTLO', 'unkMF', 'nan'] , ['LALO', 'RTLO', 'nan'] , ['RTLO', 'nan'] , ['SESA', 'RTLO', 'nan'] , ['SESA', 'nan'] , ['SESA', 'LALO', 'RTLO', 'nan'] , ['LALO', 'nan'] , ['nan', 'GWFG'] , ['SESA', 'nan', 'GWFG'] , ['nan', 'DUNL', 'GWFG'] , ['SESA', 'LALO', 'nan', 'GWFG'] , ['SESA', 'LALO', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['nan', 'unkMF', 'GWFG'] , ['nan', 'LALO', 'unkMF', 'GWFG'] , ['unkMF', 'nan']",phalarope,0.348
+AR08_20220525_143000.wav,0,300,"['LALO', 'nan']",nan,nan
+B81_20230612_123000.wav,0,300,"['nan', 'GWFG'] , ['SESA', 'nan'] , ['unkLF', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['LALO', 'nan'] , ['SESA', 'LALO', 'nan']",SESA,0.657
+EC21_20230604_070000.wav,0,300,"['LBDO', 'nan'] , ['STSA', 'nan'] , ['WIPT', 'nan']",LBDO,0.646
+20220616_103000.wav,0,300,"['nan', 'GWFG'] , ['phalarope', 'nan'] , ['phalarope', 'DUNL', 'nan'] , ['DUNL', 'nan'] , ['PALO', 'phalarope', 'nan'] , ['PALO', 'nan'] , ['PESA', 'phalarope', 'nan'] , ['PESA', 'nan'] , ['phalarope', 'nan', 'GWFG']",nan,nan
+AR93_20230619_183000.wav,0,300,"['LALO', 'nan']",nan,nan
+AL35_20230606_150000.wav,0,300,"['lalo', 'nan'] , ['lalo', 'wipt', 'nan'] , ['lalo', 'wipt', 'gwfg', 'nan'] , ['lalo', 'gwfg', 'nan'] , ['lalo', 'unknown', 'nan']",nan,nan
+AL64_20230612_130000.wav,0,300,"['LALO', 'nan'] , ['Jaeger sp', 'nan'] , ['Jaeger sp', 'nan', 'GWFG'] , ['nan', 'GWFG'] , ['PESA', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['RTLO', 'nan'] , ['LALO', 'RTLO', 'nan'] , ['PESA', 'nan', 'GWFG'] , ['PESA', 'LALO', 'nan'] , ['Jaeger Sp', 'LALO', 'nan'] , ['LALO', 'nan', 'GWFG']",nan,nan
+EC41_20230619_130000.wav,0,300,"['LALO', 'nan'] , ['PALO', 'nan'] , ['nan', 'GWFG'] , ['LALO', 'nan', 'GWFG']",nan,nan
+AL33_20230721_183000.wav,0,300,"['gull', 'nan'] , ['lalo', 'gull', 'nan'] , ['ltja', 'gull', 'nan'] , ['ltja', 'nan']",nan,nan
+AR93_20230704_050000.wav,0,300,"['arte', 'nan']",nan,nan
+EC28_20230614_093000.wav,0,300,"['PALO', 'nan'] , ['WIPT', 'nan'] , ['WIPT', 'PALO', 'nan'] , ['SESA', 'nan'] , ['WIPT', 'SESA', 'nan']",nan,nan
+20220620_103000.wav,0,300,"['LALO', 'nan'] , ['nan', 'GWFG'] , ['PESA', 'nan'] , ['phalarope', 'nan', 'GWFG'] , ['PALO', 'phalarope', 'nan', 'GWFG'] , ['PALO', 'phalarope', 'nan'] , ['phalarope', 'nan'] , ['SESA', 'nan'] , ['CACK', 'LALO', 'nan'] , ['CACK', 'nan'] , ['PALO', 'nan'] , ['PALO', 'CACK', 'nan'] , ['PESA', 'PALO', 'nan'] , ['SESA', 'PALO', 'nan']",nan,nan
+20220621_143000.wav,0,300,"['LALO', 'nan', 'GWFG'] , ['nan', 'LALO', 'DUNL', 'GWFG'] , ['nan', 'GWFG'] , ['LALO', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['PALO', 'LALO', 'nan'] , ['PALO', 'nan'] , ['PALO', 'nan', 'GWFG'] , ['phalarope', 'nan'] , ['phalarope', 'nan', 'GWFG'] , ['DUNL', 'nan'] , ['nan', 'DUNL', 'GWFG']",nan,nan
+AL41_20230606_140000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['LALO', 'DUNL', 'nan'] , ['DUNL', 'nan'] , ['nan', 'GWFG'] , ['nan', 'LALO', 'DUNL', 'GWFG'] , ['nan', 'DUNL', 'GWFG']",EUWH,0.4577
+AL33_20230622_123000.wav,0,300,"['WCSP', 'nan']",nan,nan
+AL46_20230613_160000.wav,0,300,"['LALO', 'nan']",nan,nan
+AL35_20230615_113000.wav,0,300,"['LALO', 'SAVS', 'nan'] , ['LALO', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['PALO', 'nan'] , ['PALO', 'LALO', 'nan'] , ['SAVS', 'nan'] , ['PALO', 'LALO', 'SAVS', 'nan'] , ['PALO', 'SAVS', 'nan']",nan,nan
+AR70_20230705_043000.wav,0,300,"['na', 'nan']",nan,nan
+20220619_083000.wav,0,300,"['PESA', 'phalarope', 'nan'] , ['PESA', 'LALO', 'nan'] , ['motor', 'nan'] , ['DUNL', 'nan'] , ['motor', 'nan', 'AMGP'] , ['nan', 'motor', 'DUNL', 'AMGP'] , ['nan', 'DUNL', 'AMGP'] , ['phalarope', 'DUNL', 'nan'] , ['phalarope', 'nan'] , ['PAJA', 'nan'] , ['PAJA', 'DUNL', 'nan'] , ['motor', 'DUNL', 'nan'] , ['motor', 'phalarope', 'nan'] , ['PAJA', 'motor', 'phalarope', 'nan'] , ['PAJA', 'phalarope', 'nan'] , ['PAJA', 'motor', 'nan'] , ['PESA', 'motor', 'nan']",BLUE,0.2542
+EC41_20230619_143000.wav,0,300,"['LALO', 'nan'] , ['LBDO', 'nan']",nan,nan
+AL33_20230719_120000.wav,0,300,"['unknown', 'nan'] , ['bbpl', 'nan'] , ['BARG', 'nan'] , ['bbpl', 'BARG', 'nan'] , ['BARG', 'bbpl', 'nan'] , ['lalo', 'BARG', 'nan'] , ['wipt', 'nan'] , ['RUTU', 'nan']",BARG,0.4989
+AR70_20230805_233000.wav,0,300,"['na', 'nan']",nan,nan
+20220621_093000.wav,0,300,"['SESA', 'nan'] , ['SESA', 'LALO', 'nan'] , ['SESA', 'nan', 'GWFG'] , ['SESA', 'LALO', 'nan', 'GWFG'] , ['phalarope', 'nan'] , ['nan', 'GWFG'] , ['LALO', 'nan', 'GWFG'] , ['nan', 'DUNL', 'GWFG'] , ['LALO', 'nan'] , ['nan', 'LALO', 'DUNL', 'GWFG']",DUNL,0.3202
+B81_20230611_140000.wav,0,300,"['LALO', 'nan'] , ['LBDO', 'nan']",nan,nan
+AR23_20230613_013000.wav,0,300,"['LALO', 'nan'] , ['LBDO', 'nan'] , ['LBDO', 'LALO', 'nan'] , ['ARTE', 'nan']",nan,nan
+AR93_20230713_103000.wav,0,300,"['na', 'nan']",nan,nan
+AR87_20230614_103000.wav,0,300,"['PESA', 'STSA', 'nan'] , ['STSA', 'nan'] , ['LBDO', 'STSA', 'nan'] , ['LBDO', 'nan'] , ['PALO', 'LBDO', 'nan'] , ['PALO', 'nan'] , ['PALO', 'DUNL', 'nan'] , ['DUNL', 'nan'] , ['PALO', 'RTLO', 'nan'] , ['BBPL', 'PALO', 'RTLO', 'nan'] , ['BBPL', 'PALO', 'nan'] , ['PALO', 'STSA', 'nan'] , ['PALO', 'DUNL', 'STSA', 'nan'] , ['PESA', 'DUNL', 'PALO', 'STSA', 'nan'] , ['PESA', 'PALO', 'STSA', 'nan'] , ['PALO', 'RTLO', 'STSA', 'nan'] , ['RTLO', 'PALO', 'LALO', 'STSA', 'nan'] , ['PALO', 'LALO', 'RTLO', 'nan'] , ['RTLO', 'nan'] , ['PESA', 'nan'] , ['PESA', 'PALO', 'nan'] , ['PALO', 'nan', 'GWFG'] , ['nan', 'GWFG'] , ['RTLO', 'nan', 'GWFG'] , ['PESA', 'RTLO', 'nan'] , ['PESA', 'RTLO', 'DUNL', 'nan'] , ['LTDU', 'RTLO', 'nan'] , ['LTDU', 'LBDO', 'RTLO', 'nan'] , ['LBDO', 'RTLO', 'nan'] , ['LTDU', 'nan']","STSA , LTDU","0.2608,0.7232"
+EC35_20230617_180000.wav,0,300,"['STSA', 'nan']",nan,nan
+AL33_20230708_120000.wav,0,300,"['palo', 'nan'] , ['bbpl', 'nan'] , ['unknown', 'nan'] , ['gull', 'nan'] , ['gull', 'unknown', 'nan']",nan,nan
+AR93_20230627_000000.wav,0,300,"['rain', 'nan'] , ['SESA', 'rain', 'nan']",nan,nan
+AL33_20230616_030000.wav,0,300,"['LALO', 'nan']",nan,nan
+AR70_20230714_063000.wav,0,300,"['na', 'nan']",nan,nan
+EC21_20230604_080000.wav,0,300,"['PALO', 'nan'] , ['LBDO', 'nan'] , ['LALO', 'nan'] , ['LBDO', 'LALO', 'nan'] , ['PESA', 'nan'] , ['PESA', 'LALO', 'nan']",nan,nan
+AR93_20230621_103000.wav,0,300,"['na', 'nan']",nan,nan
+AR70_20230728_043000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230612_143000.wav,0,300,"['lalo', 'nan'] , ['bbpl', 'nan'] , ['lalo', 'bbpl', 'nan'] , ['gwfg', 'nan'] , ['palo', 'nan'] , ['lalo', 'gwfg', 'nan'] , ['wipt', 'gwfg', 'nan'] , ['wipt', 'nan']",nan,nan
+20220618_143000.wav,0,300,"['CACK', 'nan'] , ['CACK', 'LALO', 'nan'] , ['PESA', 'nan'] , ['LALO', 'nan'] , ['phalarope', 'nan'] , ['phalarope', 'CACK', 'nan']",nan,nan
+B78_20230613_070000.wav,0,300,"['PESA', 'nan'] , ['WIPT', 'nan']",nan,nan
+B81_20230611_143000.wav,0,300,"['LALO', 'nan'] , ['LBDO', 'nan']",nan,nan
+AL33_20230627_120000.wav,0,300,"['wipt', 'nan'] , ['wipt', 'gwfg', 'nan'] , ['gwfg', 'nan'] , ['unknown', 'nan'] , ['redpoll', 'nan'] , ['redpoll', 'wipt', 'nan'] , ['palo', 'nan'] , ['palo', 'unknown', 'nan']",nan,nan
+AL33_20230613_210000.wav,0,300,"['lalo', 'nan'] , ['unknown', 'nan']",nan,nan
+AR81_20230612_090000.wav,0,300,"['WIPT', 'nan'] , ['ARTE', 'nan'] , ['nan', 'GWFG'] , ['WIPT', 'nan', 'GWFG'] , ['SESA', 'nan']",nan,nan
+EC35_20230617_173000.wav,0,300,"['nan', 'GWFG'] , ['nan', 'AMGP']",nan,nan
+AL41_20230606_143000.wav,0,300,"['LALO', 'nan'] , ['phalarope', 'nan'] , ['DUNL', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['nan', 'GWFG'] , ['nan', 'DUNL', 'GWFG'] , ['nan', 'LALO', 'DUNL', 'GWFG'] , ['LALO', 'nan', 'GWFG']",BASA,0.2633
+20220618_020000.wav,0,300,"['BBPL', 'nan'] , ['nan', 'AMGP'] , ['LALO', 'nan'] , ['nan', 'GWFG'] , ['AMGP', 'nan', 'GWFG'] , ['PESA', 'nan'] , ['phalarope', 'nan'] , ['DUNL', 'nan']","LESA , BASA , LBDO","0.2614,0.2726,0.2518"
+AR23_20220613_050000.wav,0,300,"['LALO', 'nan'] , ['WIPT', 'LALO', 'nan'] , ['WIPT', 'nan']",nan,nan
+AR97_20230616_140000.wav,0,300,"['LALO', 'nan'] , ['DUNL', 'nan']",nan,nan
+AL35_20230602_120000.wav,0,300,"['lalo', 'nan'] , ['lalo', 'wipt', 'nan'] , ['wipt', 'nan'] , ['lalo', 'gwfg', 'nan'] , ['gwfg', 'nan'] , ['lalo', 'savs', 'nan'] , ['savs', 'nan']",nan,nan
+AR61_20230612_083000.wav,0,300,"['LALO', 'nan'] , ['LBDO', 'STSA', 'nan'] , ['WIPT', 'nan'] , ['LBDO', 'LALO', 'nan'] , ['LBDO', 'nan'] , ['SESA', 'nan']",nan,nan
+AL33_20230721_130000.wav,0,300,"['bbpl', 'nan'] , ['lalo', 'nan'] , ['unknown', 'nan'] , ['wipt', 'nan']",nan,nan
+AR16_20220610_113000.wav,0,300,"['WIPT', 'nan']",nan,nan
+AR87_20230614_163000.wav,0,300,"['unkMF', 'nan'] , ['PESA', 'nan'] , ['PESA', 'unkMF', 'nan'] , ['PESA', 'nan', 'GWFG'] , ['nan', 'GWFG'] , ['nan', 'STSA', 'GWFG'] , ['STSA', 'nan'] , ['nan', 'unkMF', 'GWFG'] , ['LALO', 'nan']",nan,nan
+AR04_20220528_073000.wav,0,300,"['LTJA', 'nan'] , ['nan', 'AMGP']",nan,nan
+AR93_20230623_153000.wav,0,300,"['SESA', 'nan'] , ['PALO', 'SESA', 'nan']",nan,nan
+AL33_20230724_180000.wav,0,300,"['BARG', 'nan'] , ['unknown', 'nan']",nan,nan
+AL35_20230611_060000.wav,0,300,"['paja', 'nan'] , ['wipt', 'nan'] , ['unknown', 'paja', 'nan'] , ['unknown', 'nan']",nan,nan
+AL41_20230606_133000.wav,0,300,"['LALO', 'nan'] , ['DUNL', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['BBPL', 'DUNL', 'nan'] , ['BBPL', 'nan'] , ['BBPL', 'LALO', 'nan'] , ['PESA', 'LALO', 'nan'] , ['nan', 'LALO', 'DUNL', 'GWFG'] , ['LALO', 'nan', 'GWFG'] , ['BBPL', 'LALO', 'nan', 'GWFG'] , ['BBPL', 'LALO', 'DUNL', 'nan']",nan,nan
+AR61_20230612_040000.wav,0,300,"['DUNL', 'nan']",DUNL,0.3045
+AL33_20230802_120000.wav,0,300,"['palo', 'nan'] , ['gull', 'nan'] , ['unknown', 'nan'] , ['gwfg', 'nan']",nan,nan
+AR105_20220612_153000.wav,0,300,"['PESA', 'nan'] , ['LALO', 'nan']",nan,nan
+AR93_20230623_033000.wav,0,300,"['SESA', 'nan'] , ['LTDU', 'nan'] , ['AMGP', 'nan']",nan,nan
+EC28_20230614_080000.wav,0,300,"['WIPT', 'Insect', 'nan'] , ['Insect', 'nan'] , ['WIPT', 'nan']",nan,nan
+AR61_20230612_113000.wav,0,300,"['PALO', 'nan'] , ['WIPT', 'nan'] , ['nan', 'GWFG'] , ['unkMF', 'nan'] , ['LBDO', 'unkMF', 'nan']",nan,nan
+AL33_20230811_160000.wav,0,300,"['lalo', 'nan'] , ['gwfg', 'nan'] , ['bbpl', 'nan']",nan,nan
+AR70_20230802_133000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230616_013000.wav,0,300,"['WIPT', 'nan']",nan,nan
+20220618_013000.wav,0,300,"['LALO', 'nan'] , ['nan', 'AMGP'] , ['LALO', 'DUNL', 'nan'] , ['DUNL', 'nan'] , ['WISN', 'nan'] , ['PAJA', 'nan'] , ['WISN', 'DUNL', 'nan'] , ['PESA', 'nan'] , ['unkMF', 'nan']",nan,nan
+AL33_20230704_133000.wav,0,300,"['gull', 'nan']",nan,nan
+AR97_20230615_113000.wav,0,300,"['nan', 'GWFG'] , ['PALO', 'nan']",nan,nan
+AR70_20230619_020000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230623_200000.wav,0,300,"['pesa', 'nan'] , ['lalo', 'nan'] , ['bbpl', 'nan'] , ['sesa', 'nan']","LESA , BARG","0.3559,0.3215"
+AL46_20230613_150000.wav,0,300,"['LALO', 'nan']",nan,nan
+AL33_20230801_133000.wav,0,300,"['BARG', 'nan'] , ['unknown', 'nan'] , ['unknown', 'BARG', 'nan'] , ['bbpl', 'BARG', 'nan'] , ['bbpl', 'nan']",BARG,0.9648
+AL35_20230605_073000.wav,0,300,"['lalo', 'nan'] , ['lalo', 'unknown', 'nan'] , ['unknown', 'nan'] , ['lalo', 'wipt', 'nan'] , ['wipt', 'nan'] , ['unknown maybe nopi', 'nan'] , ['gwfg', 'nan'] , ['lalo', 'gwfg', 'nan'] , ['pesa', 'nan']",nan,nan
+AR77_20220619_090000.wav,0,300,"['WIPT', 'nan'] , ['LTJA', 'nan']",nan,nan
+B78_20230614_100000.wav,0,300,"['WIPT', 'nan']",nan,nan
+AR40_20220617_093000.wav,0,300,"['WIPT', 'nan']",nan,nan
+AR93_20230707_063000.wav,0,300,"['rain', 'nan']",nan,nan
+AL33_20230729_063000.wav,0,300,"['palo', 'nan'] , ['unknown', 'nan'] , ['bbpl', 'nan']",nan,nan
+AL46_20230613_163000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'nan', 'GWFG']",GWFG,0.3289
+AL33_20230701_023000.wav,0,300,"['WCSP', 'nan'] , ['RUTU', 'nan'] , ['RUTU', 'WCSP', 'nan'] , ['bbpl', 'nan']",nan,nan
+EC35_20230617_160000.wav,0,300,"['nan', 'GWFG'] , ['CACK', 'nan'] , ['LALO', 'nan'] , ['PESA', 'nan']",nan,nan
+AR93_20230707_000000.wav,0,300,"['LALO', 'nan']",nan,nan
+AL35_20230604_050000.wav,0,300,"['gwfg', 'nan'] , ['unknown', 'nan'] , ['wipt', 'nan'] , ['lalo', 'gwfg', 'nan'] , ['lalo', 'wipt', 'gwfg', 'nan'] , ['wipt', 'gwfg', 'nan'] , ['lalo', 'nan']",nan,nan
+AR08_20220525_133000.wav,0,300,"['LALO', 'nan']",nan,nan
+AR65_20220610_090000.wav,0,300,"['WIPT', 'nan']",nan,nan
+AL64_20230612_140000.wav,0,300,"['RTLO', 'nan'] , ['LALO', 'RTLO', 'nan'] , ['LALO', 'nan']",nan,nan
+AR96_20220616_143000.wav,0,300,"['LALO', 'nan']",Calcarius pictus,0.4914
+AL33_20230702_143000.wav,0,300,"['ltja', 'nan'] , ['gwfg', 'nan'] , ['bbpl', 'nan']",nan,nan
+AR70_20230618_183000.wav,0,300,"['na', 'nan']",nan,nan
+B81_20230611_150000.wav,0,300,"['LBDO', 'nan'] , ['LALO', 'nan'] , ['ARTE', 'nan']",nan,nan
+AL33_20230724_073000.wav,0,300,"['gull', 'nan'] , ['ltja', 'gull', 'nan'] , ['ltja', 'nan'] , ['ltja', 'bbpl', 'nan'] , ['bbpl', 'nan'] , ['palo', 'nan'] , ['ltja', 'palo', 'nan'] , ['gull', 'ltja', 'nan'] , ['unknown', 'nan'] , ['gull', 'ltja', 'unknown', 'nan']",nan,nan
+EC13_20230611_043000.wav,0,300,"['LALO', 'nan']",nan,nan
+AR70_20230711_080000.wav,0,300,"['na', 'nan']",nan,nan
+AR61_20230612_090000.wav,0,300,"['DUNL', 'nan'] , ['WIPT', 'nan'] , ['unkMF', 'nan'] , ['LALO', 'unkMF', 'nan'] , ['LALO', 'nan']",DUNL,0.352
+20220622_110000.wav,0,300,"['PESA', 'nan'] , ['nan', 'GWFG'] , ['DUNL', 'nan'] , ['LTDU', 'nan']",nan,nan
+20220621_080000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['PESA', 'LALO', 'nan', 'GWFG'] , ['PESA', 'nan', 'GWFG'] , ['nan', 'GWFG'] , ['phalarope', 'nan'] , ['phalarope', 'LALO', 'nan'] , ['phalarope', 'LALO', 'DUNL', 'nan'] , ['phalarope', 'DUNL', 'nan'] , ['DUNL', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['nan', 'AMGP']","LESA , DUNL","0.4009,0.2781"
+EC35_20230617_163000.wav,0,300,"['WIPT', 'nan'] , ['LALO', 'nan']",nan,nan
+AL33_20230706_113000.wav,0,300,"['RUTU', 'nan'] , ['gwfg', 'nan'] , ['RUTU', 'gwfg', 'nan'] , ['unknown', 'nan'] , ['bbpl', 'nan'] , ['palo', 'nan']",RUTU,0.3571
+AR11_20220610_040000.wav,0,300,"['LALO', 'nan'] , ['SAVS', 'nan'] , ['LALO', 'SAVS', 'nan']",SAVS,0.3899
+AL35_20230609_220000.wav,0,300,"['wipt', 'nan'] , ['unknown', 'nan'] , ['lalo', 'nan']",nan,nan
+AL33_20230713_220000.wav,0,300,"['palo', 'nan']",nan,nan
+AR93_20230723_023000.wav,0,300,"['unkLF', 'nan'] , ['insect', 'nan']",ROPT,0.7188
+AL33_20230702_130000.wav,0,300,"['bbpl', 'nan'] , ['ltja', 'bbpl', 'nan'] , ['ltja', 'nan'] , ['unknown', 'nan']",nan,nan
+AL33_20230728_103000.wav,0,300,"['wipt', 'nan'] , ['unknown', 'nan'] , ['palo', 'nan'] , ['wipt', 'palo', 'nan']",nan,nan
+AR70_20230804_083000.wav,0,300,"['na', 'nan']",nan,nan
+AR40_20220618_000000.wav,0,300,"['LALO', 'nan'] , ['Insect', 'nan'] , ['redpoll  ', 'nan'] , ['nan', 'AMGP']",nan,nan
+AR91_20230614_160000.wav,0,300,"['LBDO', 'nan']",nan,nan
+AR70_20230622_053000.wav,0,300,"['na', 'nan']",nan,nan
+AR91_20230613_093000.wav,0,300,"['PESA', 'nan'] , ['phalarope', 'nan'] , ['PESA', 'phalarope', 'nan']",nan,nan
+AR87_20230614_020000.wav,0,300,"['STSA', 'nan'] , ['PALO', 'STSA', 'nan'] , ['PALO', 'DUNL', 'STSA', 'nan'] , ['DUNL', 'STSA', 'nan'] , ['LALO', 'STSA', 'nan'] , ['PALO', 'nan'] , ['LALO', 'nan'] , ['nan', 'GWFG'] , ['PALO', 'RTLO', 'nan'] , ['RTLO', 'nan'] , ['RTLO', 'nan', 'GWFG'] , ['PALO', 'nan', 'GWFG'] , ['SESA', 'nan'] , ['SESA', 'LALO', 'nan']",nan,nan
+AL33_20230619_053000.wav,0,300,"['gull', 'nan'] , ['bbpl', 'nan'] , ['gwfg', 'nan'] , ['gwfg', 'bbpl', 'nan']",nan,nan
+AR40_20220617_090000.wav,0,300,"['WIPT', 'nan'] , ['WIPT', 'LALO', 'nan']",nan,nan
+AL35_20230605_230000.wav,0,300,"['lalo', 'nan'] , ['unknown', 'nan']",nan,nan
+AR18_20220626_010000.wav,0,300,"['na', 'nan']",nan,nan
+AR61_20230612_143000.wav,0,300,"['gull', 'nan'] , ['LTJA', 'nan'] , ['LALO', 'nan']",nan,nan
+AR11_20220610_053000.wav,0,300,"['PESA', 'nan'] , ['LALO', 'nan'] , ['PESA', 'LALO', 'nan']",nan,nan
+EC21_20230604_073000.wav,0,300,"['WIPT', 'nan'] , ['LBDO', 'nan'] , ['LALO', 'nan'] , ['WIPT', 'LBDO', 'nan']",nan,nan
+B81_20230611_153000.wav,0,300,"['LALO', 'nan'] , ['unkLF', 'nan'] , ['LALO', 'unkLF', 'nan'] , ['nan', 'GWFG'] , ['nan', 'unkLF', 'GWFG'] , ['LBDO', 'nan']",nan,nan
+AR93_20230629_170000.wav,0,300,"['unkMF', 'nan']",nan,nan
+AR81_20230612_083000.wav,0,300,"['PALO', 'YBLO', 'nan'] , ['PALO', 'nan'] , ['YBLO', 'nan'] , ['WIPT', 'nan']",nan,nan
+AR08_20220525_153000.wav,0,300,"['LALO', 'nan']",nan,nan
+AL35_20230615_070000.wav,0,300,"['LALO', 'nan'] , ['WISN', 'nan'] , ['WIPT', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['WIPT', 'LALO', 'nan'] , ['unkLF', 'nan'] , ['LALO', 'unkLF', 'nan']",nan,nan
+AR54_20220618_113000.wav,0,300,"['WIPT', 'nan'] , ['LALO', 'nan']",ROPT,0.4701
+B78_20230613_073000.wav,0,300,"['nan', 'GWFG'] , ['WIPT', 'nan'] , ['LBDO', 'nan']",CACK,0.2896
+AR87_20230614_033000.wav,0,300,"['unkMF', 'nan'] , ['nan', 'unkMF', 'GWFG'] , ['nan', 'GWFG'] , ['LBDO', 'nan'] , ['LBDO', 'nan', 'GWFG'] , ['DUNL', 'nan'] , ['nan', 'DUNL', 'GWFG']",nan,nan
+B78_20230613_060000.wav,0,300,"['PESA', 'nan']",nan,nan
+AL73_20230613_160000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['LALO', 'RTLO', 'nan'] , ['RTLO', 'nan']",nan,nan
+AL57_20230613_180000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['DUNL', 'nan'] , ['RTLO', 'nan'] , ['nan', 'GWFG'] , ['nan', 'DUNL', 'GWFG']",nan,nan
+AR97_20230615_103000.wav,0,300,"['BBPL', 'nan'] , ['LALO', 'nan'] , ['BBPL', 'LALO', 'nan'] , ['ARTE', 'nan']",nan,nan
+AL33_20230624_150000.wav,0,300,"['bbpl', 'nan'] , ['wipt', 'nan'] , ['unknown', 'nan'] , ['lalo', 'nan']",nan,nan
+20220621_203000.wav,0,300,"['SESA', 'nan'] , ['LALO', 'nan'] , ['PESA', 'nan'] , ['nan', 'GWFG'] , ['WESA', 'nan']",nan,nan
+AR70_20230716_070000.wav,0,300,"['na', 'nan']",nan,nan
+AL33_20230616_033000.wav,0,300,"['nan', 'GWFG'] , ['PALO', 'nan']",nan,nan
+AL41_20230606_153000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['PESA', 'phalarope', 'LALO', 'nan'] , ['PESA', 'phalarope', 'nan'] , ['PESA', 'LALO', 'nan'] , ['LALO', 'DUNL', 'nan'] , ['phalarope', 'nan'] , ['DUNL', 'nan'] , ['PESA', 'nan'] , ['SESA', 'nan'] , ['SESA', 'DUNL', 'nan']",BASA,0.4798
+AL46_20230613_143000.wav,0,300,"['LALO', 'nan'] , ['LALO', 'nan', 'GWFG'] , ['nan', 'GWFG']",nan,nan
+AR08_20220525_140000.wav,0,300,"['LALO', 'nan']",nan,nan
+AR91_20230614_143000.wav,0,300,"['LBDO', 'nan'] , ['PALO', 'LBDO', 'nan'] , ['PALO', 'nan'] , ['RTLO', 'nan'] , ['LBDO', 'RTLO', 'nan'] , ['PESA', 'nan'] , ['LBDO', 'nan', 'GWFG'] , ['nan', 'GWFG'] , ['unkLF', 'nan'] , ['ARTE', 'nan']",GWFG,0.36
+AL33_20230720_170000.wav,0,300,"['BARG', 'nan'] , ['unknown', 'nan'] , ['palo', 'nan'] , ['palo', 'BARG', 'nan'] , ['bbpl', 'nan']",EUWH,0.2622
+AR08_20220525_150000.wav,0,300,"['LALO', 'nan']",nan,nan
