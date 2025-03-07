@@ -1,0 +1,151 @@
+tag,vernacular_name,scientific_name
+AMGP,american golden-plover,Pluvialis dominica
+ARTE,arctic tern,Sterna paradisaea
+BASA,baird's sandpiper,Calidris bairdii
+BBPL,black-bellied plover,Pluvialis squatarola
+BRAN,brant,Branta bernicla
+BARG,bar-tailed godwit,Limosa lapponica
+Biophony,,
+CANG,canada goose,Branta canadensis
+CORA,common raven,Corvus corax
+DUNL,dunlin,Calidris alpina
+Duck,,
+GWFG,greater white-fronted goose,Anser albifrons
+Goose,,
+Gull,,
+HERG,herring gull,Larus argentatus
+Human,,
+Insect,,
+KIEI,king eider,Somateria spectabilis
+LALO,lapland longspur,Calcarius lapponicus
+LBDO,long-billed dowitcher,Limnodromus scolopaceus
+LTDU,long-tailed duck,Clangula hyemalis
+LTJA,long-tailed jaeger,Stercorarius longicaudus
+Loon,,
+Motor,,
+PALO,pacific loon,Gavia pacifica
+PESA,pectoral sandpiper,Calidris melanotos
+POJA,pomarine jaeger,Stercorarius pomarinus
+PUSA,purple sandpiper,Calidris maritima
+Passerine,,
+Plover,,
+phalarope,red phalarope,Phalaropus fulicarius
+RTLO,red-throated loon,Gavia stellata
+RUTU,ruddy turnstone,Arenaria interpres
+SAGU,sabine's gull,Xema sabini
+SAND,sanderling,Calidris alba
+SEPL,semipalmated plover,Charadrius semipalmatus
+SESA,semipalmated sandpiper,Calidris pusilla
+SNBU,snow bunting,Plectrophenax nivalis
+SNGO,snow goose,Anser caerulescens
+SPEI,spectacled eider,Somateria fischeri
+Sandpiper,,
+Shorebird,,
+TUSW,tundra swan,Cygnus columbianus
+UNKN,,
+Unknown sound,,
+WRSA,white-rumped sandpiper,Calidris fuscicollis
+Wings,,
+ROPT,rock ptarmigan,Lagopus muta
+WIPT,willow ptarmigan,Lagopus lagopus
+WESA,western sandpiper,Calidris mauri
+phalarope,red-necked phalarope,Phalaropus lobatus
+ATSP,american tree sparrow,Spizelloides arborea
+STSA,stilt sandpiper,Calidris himantopus
+WISN,wilson's snipe,Gallinago delicata
+SAVS,savannah sparrow,Passerculus sandwichensis
+CACK,cackling goose,Branta hutchinsii
+GLGU,glaucous gull,Larus hyperboreus
+redpoll,common redpoll,Acanthis flammea
+redpoll,hoary redpoll,Acanthis hornemanni
+PAJA,parasitic jaeger,Stercorarius parasiticus
+NOPI,northern pintail,Anas acuta
+LESA,least sandpiper,Calidris minutilla
+BLUE,Bluethroat,Luscinia svecica
+HOLA,Horned lark,Eremophila alpestris
+NOWH,Northern wheatear,Oenanthe oenanthe
+SACR,Sandhill crane,Antigone canadensis
+SEOW,Short-eared owl,Asio flammeus
+NOSH,Northern shrike,Lanius borealis
+MALL,Mallard,Anas platyrhynchos
+COLO,Common loon,Gavia immer
+SAPH,Say's phoebe,Sayornis saya
+PEFA,Peregrine falcon,Falco peregrinus
+BLSC,Black scoter,Melanitta americana
+HUGO,Hudsonian godwit,Limosa haemastica
+EUWH,Eurasian whimbrel,Numenius phaeopus
+UPSA,Upland sandpiper,Bartramia longicauda
+EUTE,Eurasian teal,Anas crecca
+EYWA,Eastern yellow wagtail,Motacilla tschutschensis
+SWTH,Swainson's thrush,Catharus ustulatus
+VATH,Varied thrush,Ixoreus naevius
+YBLO,Yellow-billed loon,Gavia adamsii
+EUCU,Eurasian curlew,Numenius arquata
+COCR,Common crane,Grus grus
+RIPI,Richard's pipit,Anthus richardi
+TESA,Terek sandpiper,Xenus cinereus
+BWST,Black-winged stilt,Himantopus himantopus
+COBU,common buzzard,Buteo buteo
+ROOK,Rook,Corvus frugilegus
+EUPO,Eurasian pgymy owl,Glaucidium passerinum
+BTGO,Black-tailed godwit,Limosa limosa
+EUJA,Eurasian jay,Garrulus glandarius
+WTEA,White-tailed eagle,Haliaeetus albicilla
+ORCU,Oriental cuckoo,Cuculus optatus
+SIRU,Siberian rubythroat,Calliope calliope
+WOSA,Wood sandpiper,Tringa glareola
+LIOW,Little owl,Athene noctua
+WECA,Western capercaillie,Tetrao urogallus
+FECU,Far eastern curlew,Numenius madagascariensis
+EUNU,Eurasian nuthatch,Sitta europaea
+TAOW,Tawny owl,Strix aluco
+EUNI,Eurasian nightjar,Caprimulgus europaeus
+MASA,Marsh sandpiper,Tringa stagnatilis
+EUSO,Eurasian scops-owl,Otus scops
+BBWA,,Setophaga castanea
+SWTH,,Catharus ustulatus
+HAWO,,Dryobates villosus
+TUTI,,Baeolophus bicolor
+OVEN,,Seiurus aurocapilla
+RWBL,,Agelaius phoeniceus
+RBGR,,Pheucticus ludovicianus
+CEDW,,Bombycilla cedrorum
+YBCU,,Coccyzus americanus
+EATO,,Pipilo erythrophthalmus
+PIWO,,Dryocopus pileatus
+WOTH,,Hylocichla mustelina
+REVI,,Vireo olivaceus
+NOFL,,Colaptes auratus
+DOWO,,Dryobates pubescens
+HETH,,Catharus guttatus
+SCTA,,Piranga olivacea
+VEER,,Catharus fuscescens
+BLJA,,Cyanocitta cristata
+KEWA,,Geothlypis formosa
+AMRE,,Setophaga ruticilla
+RBWO,,Melanerpes carolinus
+AMCR,,Corvus brachyrhynchos
+COYE,,Geothlypis trichas
+AMRO,,Turdus migratorius
+BGGN,,Polioptila caerulea
+LOWA,,Parkesia motacilla
+HOWA,,Setophaga citrina
+BRCR,,Certhia americana
+AMGO,,Carduelis tristis
+BAOR,,Icterus galbula
+NOCA,,Cardinalis cardinalis
+BAWW,,Mniotilta varia
+BHVI,,Vireo solitarius
+CSWA,,Dendroica pensylvanica
+BCCH,,Poecile atricapillus
+BTNW,,Setophaga virens
+BHCO,,Molothrus ater
+RCKI,,Regulus calendula
+WITU,,Meleagris gallopavo
+BWWA,,Vermivora leucobronchialis
+CARW,,Thryothorus ludovicianus
+EAWP,,Contopus virens
+RSHA,,Buteo lineatus
+WBNU,,Sitta carolinensis carolinensis
+NAWA,,Leiothlypis ruficapilla
+SMLO,,Calcarius pictus 
