@@ -28,4 +28,4 @@ This pipeline was developed for use with BirdNET-Analyzer’s command line inter
 While this guide is for use with command line BirdNET-Analyzer in mind, it may be possible to run BirdNET-related steps in other versions such as the GUI. However, this has not been tested. 
 
 Once you have BirdNET installed, we recommend running the most up-to-date model on at least a subset of your data and examining the labels provided by analyze.py in your preferred software (e.g. Audacity, Raven Lite, Raven Pro, Kaleidoscope Pro). Understanding your data and the performance of your chosen model (e.g., base BirdNET, or potentially another model from which you have embeddings) may significantly inform how you use this pipeline.
-![image](https://github.com/user-attachments/assets/1fbbe4f0-0d7f-42c9-b300-fc9b875d38b1)
+
