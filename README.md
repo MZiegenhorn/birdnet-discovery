@@ -72,7 +72,7 @@ This process requires a separate run of analyze.py through the BirdNET-Analyzer 
 
 A caveat of this process is that this type of pruning only works well if the base BirdNET algorithm can successfully detect your target signals. In the case of Ziegenhorn et al. (2025), this was not true, and it was necessary to build an intermediary model (binary BirdNET, or asnet_binary) using a small, weakly labelled training data (‘bird’, ‘rain’, and ‘background’) to obtain labels for use with **clusters_run_HDBSCAN.py**. This model (*~/models/asnet_binary.tflite*) and its associated training data (*~/asnet_binary_training_data*) are provided for reference and reproducibility. For details on how to train a similar model and training settings, see Ziegenhorn et al. (2025) and the BirdNET documentation page. While this step may take extra time on the front-end, it may drastically reduce the time spent on manual review of clusters later on. 
 
-Embeddings and labels for our data using the asnet_binary model were then extracted by running BirdNET-Analyzer embeddings.py and analyze.py in command line with a custom classifier option. 
+Embeddings and labels for our data using the asnet_binary model were then extracted by running BirdNET-Analyzer embeddings.py and analyze.py in command line, using the custom classifier option for analyze.py. 
 
 An example of the output of this process (using asnet_binary as the classification model) for data from a single instrument, TLSA_2023_AL54, can be found in this repository at *~/shortDeps/asnet_binary_output/TLSA_2023_AL54*. An example of the output of **cluster_run_HDBSCAN.py** can be found in this repository at *~/shortDeps/asnet_binary_output/clusters*.
 
