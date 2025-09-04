@@ -1,7 +1,7 @@
 # birdnet-discovery
 This repository contains all code related to the pipeline for signal discovery/training data creation outlined in Ziegenhorn et al. (2025):
 
-Ziegenhorn, Morgan A. and Lanctot, Richard B. and Brown, Stephen C. and Brengle, Miles and Schulte, Shiloh and Saalfeld, Sarah T. and Latty, Christopher J. and Smith, Paul A. and Lecomte, Nicolas, Arcticsoundsnet: Birdnet Embeddings Facilitate Improved Bioacoustic Classification of Arctic Species. Available at SSRN: https://ssrn.com/abstract=5135160 or http://dx.doi.org/10.2139/ssrn.5135160
+Ziegenhorn, Morgan A. and Lanctot, Richard B. and Brown, Stephen C. and Brengle, Miles and Schulte, Shiloh and Saalfeld, Sarah T. and Latty, Christopher J. and Smith, Paul A. and Lecomte, Nicolas, Arcticsoundsnet: Birdnet Embeddings Facilitate Improved Bioacoustic Classification of Arctic Species. Available at: https://www.sciencedirect.com/science/article/pii/S1574954125002791
 
 **PLEASE NOTE** Large files associated with this repository cannot be appropriately stored on GitHub, and are instead available on Dryad, DOI: 10.5061/dryad.jh9w0vtnr
 
